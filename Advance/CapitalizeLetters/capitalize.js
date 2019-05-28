@@ -16,10 +16,13 @@ const capitalWord = (word) => {
 
     // ============================================METHOD NUMBER 2 ==============================================//
 
+
     // return word.
     //     toLowerCase().
     //     split(' ')
     //     .map(item => item[0].toUpperCase() + item.substr(1)).join(' ');
+    
+
 }
 
 
