@@ -7,7 +7,7 @@ const fizzbuzz = () => {
         if (i % 3 === 0) {
             console.log('Fizzzz');
         }
-        else if (i % 5 === 0) {
+        else if (i % 5 === 0) {s
             console.log('Buzzzzz');
         }
         else if (i % 3 === 0 && i % 5 === 0) {
