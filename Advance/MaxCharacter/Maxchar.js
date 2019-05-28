@@ -2,6 +2,7 @@ const maxChar = (word) => {
     const obj = {};
     let maxNum = 0;
     let maxChar = '';
+    
 
     word.split('').forEach((item)=>{
         if(obj[item]){
